@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mwaqaskhaan
-- 👀 I’m interested in C++ and JavaScript
+- 👀 I’m interested in C++ and Java
 - 🌱 I’m currently learning Rect Native
-- 💞️ I’m looking to collaborate on JavaScript Developer
-- 📫 How to reach me (waqasabdulrehmankhan@gmail.com)
+- 💞️ I’m looking to collaborate on Java Developer
+- 📫 How to reach me (waqas.erio@gmail.com)
 - https://www.linkedin.com/in/muhammad-waqas-82020a258/
 
 <!---
