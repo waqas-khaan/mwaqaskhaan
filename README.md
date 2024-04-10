@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mwaqaskhaan
-- 👀 I’m interested in C++, Java and Javascript
+- 👀 I’m interested in Java and Javascript
 - 🌱 I’m currently learning Rect Native
 - 💞️ I’m looking to collaborate on Java Developer
 - 📫 How to reach me (waqas.erio@gmail.com)
