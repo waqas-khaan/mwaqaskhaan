@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mwaqaskhaan
 - 👀 I’m interested in Java and Javascript
-- 🌱 I’m currently Working in Reactjs
+- 🌱 I’m currently Working in Flutter
 - 💞️ I’m looking to collaborate on Java Developer
 - 📫 How to reach me (waqas.erio@gmail.com)
 - https://www.linkedin.com/in/muhammad-waqas-82020a258/
