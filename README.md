@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mwaqaskhaan
-- 👀 I’m interested in Java and Javascript
-- 🌱 I’m currently Working in Back-End Production
+- 👀 I’m interested in Java, Go & Javascript
+- 🌱 I’m currently Working in Back-End Production with DevOps
 - 📫 How to reach me (waqas.erio@gmail.com)
 [- https://www.linkedin.com/in/waqas-khaan
 
